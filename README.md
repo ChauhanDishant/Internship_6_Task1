@@ -1,3 +1,5 @@
+<body>
+        
 <div class="container">
         <h1>Internship Journey at Prodigy InfoTech</h1>
         <h2>Overview</h2>
@@ -114,3 +116,4 @@
         <h2>Conclusion</h2>
         <p>This internship has been a comprehensive journey through web development, starting from the basics of HTML and CSS, moving to JavaScript, and culminating in advanced ReactJS applications. Each task and project contributed significantly to my learning and practical experience.</p>
     </div>
+</body>
