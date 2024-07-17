@@ -4,15 +4,16 @@
         <h1>Internship Journey at Prodigy InfoTech</h1>
         <h2>Overview</h2>
         <p>Welcome to the detailed overview of my internship journey at Prodigy InfoTech. This document outlines the daily tasks, topics covered, and projects completed during the internship.</p>
-        
+       <div>     
         <h2>Week 1</h2>
         <h3>Day 1: 15/05/2024 (Wednesday)</h3>
         <p><strong>Topic:</strong> Introduction of Company and Internship Plan</p>
         <p><strong>Details:</strong> Introduction to the company, its vision, and an overview of the internship plan.</p>
-        
+       <div>
         <h3>Day 2: 16/05/2024 (Thursday)</h3>
         <p><strong>Topic:</strong> Revision Overview of HTML</p>
         <p><strong>Details:</strong> Reviewed basic HTML concepts, tags, and structures.</p>
+       <div>
         
         <h3>Day 3: 17/05/2024 (Friday)</h3>
         <p><strong>Topic:</strong> Revision Overview of CSS</p>
