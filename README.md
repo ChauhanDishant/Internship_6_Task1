@@ -1,5 +1,42 @@
-<body>
-        
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internship Journey at Prodigy InfoTech</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .screenshot {
+            margin: 10px 0;
+        }
+        .screenshot img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>       
 <div class="container">
         <h1>Internship Journey at Prodigy InfoTech</h1>
         <h2>Overview</h2>
@@ -66,30 +103,16 @@
         <h2>Project Details</h2>
         <h3>Task-1: Mini-Website</h3>
         <p><strong>Description:</strong> A simple website built with ReactJS to practice component creation and state management.</p>
-        <div class="screenshot">
-            <img src="path_to_image" alt="Mini-Website Screenshot">
-        </div>
         <h3>Task-2: StopWatch</h3>
         <p><strong>Description:</strong> A functional stopwatch application demonstrating the use of state and event handling in ReactJS.</p>
-        <div class="screenshot">
-            <img src="path_to_image" alt="StopWatch Screenshot">
-        </div>
         <h3>Task-3: Tic-Tac-Toe Game</h3>
         <p><strong>Description:</strong> A classic Tic-Tac-Toe game implemented in ReactJS, focusing on game logic and user interaction.</p>
-        <div class="screenshot">
-            <img src="path_to_image" alt="Tic-Tac-Toe Screenshot">
-        </div>
         <h3>Task-4: Portfolio Website</h3>
         <p><strong>Description:</strong> A personal portfolio website to showcase my projects and skills.</p>
-        <div class="screenshot">
-            <img src="path_to_image" alt="Portfolio Website Screenshot">
-        </div>
         <h3>Task-5: Weather App</h3>
         <p><strong>Description:</strong> A weather application that fetches and displays weather data using an external API.</p>
-        <div class="screenshot">
-            <img src="path_to_image" alt="Weather App Screenshot">
-        </div>
         <h2>Conclusion</h2>
         <p>This internship has been a comprehensive journey through web development, starting from the basics of HTML and CSS, moving to JavaScript, and culminating in advanced ReactJS applications. Each task and project contributed significantly to my learning and practical experience.</p>
     </div>
 </body>
+</html>
