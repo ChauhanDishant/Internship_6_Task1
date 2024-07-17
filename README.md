@@ -1,81 +1,157 @@
-Internship Journey at Prodigy InfoTech
-Overview
-Welcome to the detailed overview of my internship journey at Prodigy InfoTech. This document outlines the daily tasks, topics covered, and projects completed during the internship.
-
-Week 1
-Day 1: 15/05/2024 (Wednesday)
-Topic: Introduction of Company and Internship Plan
-Details: Introduction to the company, its vision, and an overview of the internship plan.
-Day 2: 16/05/2024 (Thursday)
-Topic: Revision Overview of HTML
-Details: Reviewed basic HTML concepts, tags, and structures.
-Day 3: 17/05/2024 (Friday)
-Topic: Revision Overview of CSS
-Details: Covered basic CSS properties, selectors, and layout techniques.
-Day 4: 18/05/2024 (Monday)
-Topic: Introduction of JavaScript
-Details: Introduced JavaScript basics, including syntax, variables, and operators.
-Day 5: 19/05/2024 (Tuesday)
-Topic: Roles of JavaScript in Web Development
-Details: Discussed the importance of JavaScript in enhancing web interactivity and functionality.
-Week 2
-Day 6: 22/05/2024 (Wednesday)
-Topic: Learning JavaScript
-Details: Focused on JavaScript functions, events, and DOM manipulation.
-Day 7: 23/05/2024 (Thursday)
-Topic: Learning JavaScript
-Details: Continued JavaScript learning with loops, arrays, and objects.
-Day 8: 24/05/2024 (Friday)
-Topic: Learning JavaScript
-Details: Further exploration of advanced JavaScript concepts such as closures and asynchronous programming.
-Day 9: 25/05/2024 (Monday)
-Topic: Introduction to ReactJS
-Details: Introduced ReactJS, including its core concepts and architecture.
-Day 10: 26/05/2024 (Tuesday)
-Topic: Learning ReactJS
-Details: Covered the basics of creating React components and using props.
-Week 3
-Day 11: 29/05/2024 (Wednesday)
-Topic: ReactJS Components and Hooks
-Details: Explored functional components and hooks in ReactJS.
-Day 12: 30/05/2024 (Thursday)
-Topic: ReactJS API Calls
-Details: Learned how to make API calls and handle data in ReactJS.
-Day 13: 31/05/2024 (Friday) to Day 15: 02/06/2024 (Tuesday)
-Project: Task-1: Mini-Website
-Details: Worked on creating a mini-website using ReactJS. The project involved setting up the project, creating components, and integrating basic functionalities.
-Week 4
-Day 16: 05/06/2024 (Wednesday) to Day 17: 06/06/2024 (Thursday)
-Project: Task-2: StopWatch
-Details: Built a stopwatch application using ReactJS, focusing on state management and event handling.
-Day 18: 07/06/2024 (Friday) to Day 20: 09/06/2024 (Tuesday)
-Project: Task-3: Tic-Tac-Toe Game
-Details: Developed a Tic-Tac-Toe game using ReactJS, implementing game logic and user interaction.
-Day 21: 09/06/2024 (Tuesday)
-Project: Task-4: Portfolio Website
-Details: Started working on a personal portfolio website to showcase projects and skills.
-Week 5
-Day 22: 12/06/2024 (Wednesday) to Day 23: 13/06/2024 (Thursday)
-Project: Task-4: Portfolio Website
-Details: Continued development of the portfolio website, focusing on design and content.
-Day 24: 14/06/2024 (Friday) to Day 25: 15/06/2024 (Monday)
-Project: Task-5: Weather App
-Details: Created a weather application using ReactJS, integrating with a weather API to fetch and display weather data.
-Project Details
-Task-1: Mini-Website
-Description: A simple website built with ReactJS to practice component creation and state management.
-Screenshot: 
-Task-2: StopWatch
-Description: A functional stopwatch application demonstrating the use of state and event handling in ReactJS.
-Screenshot: 
-Task-3: Tic-Tac-Toe Game
-Description: A classic Tic-Tac-Toe game implemented in ReactJS, focusing on game logic and user interaction.
-Screenshot: 
-Task-4: Portfolio Website
-Description: A personal portfolio website to showcase my projects and skills.
-Screenshot: 
-Task-5: Weather App
-Description: A weather application that fetches and displays weather data using an external API.
-Screenshot: 
-Conclusion
-This internship has been a comprehensive journey through web development, starting from the basics of HTML and CSS, moving to JavaScript, and culminating in advanced ReactJS applications. Each task and project contributed significantly to my learning and practical experience.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internship Journey at Prodigy InfoTech</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .screenshot {
+            margin: 10px 0;
+        }
+        .screenshot img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Internship Journey at Prodigy InfoTech</h1>
+        <h2>Overview</h2>
+        <p>Welcome to the detailed overview of my internship journey at Prodigy InfoTech. This document outlines the daily tasks, topics covered, and projects completed during the internship.</p>
+        
+        <h2>Week 1</h2>
+        <h3>Day 1: 15/05/2024 (Wednesday)</h3>
+        <p><strong>Topic:</strong> Introduction of Company and Internship Plan</p>
+        <p><strong>Details:</strong> Introduction to the company, its vision, and an overview of the internship plan.</p>
+        
+        <h3>Day 2: 16/05/2024 (Thursday)</h3>
+        <p><strong>Topic:</strong> Revision Overview of HTML</p>
+        <p><strong>Details:</strong> Reviewed basic HTML concepts, tags, and structures.</p>
+        
+        <h3>Day 3: 17/05/2024 (Friday)</h3>
+        <p><strong>Topic:</strong> Revision Overview of CSS</p>
+        <p><strong>Details:</strong> Covered basic CSS properties, selectors, and layout techniques.</p>
+        
+        <h3>Day 4: 18/05/2024 (Monday)</h3>
+        <p><strong>Topic:</strong> Introduction of JavaScript</p>
+        <p><strong>Details:</strong> Introduced JavaScript basics, including syntax, variables, and operators.</p>
+        
+        <h3>Day 5: 19/05/2024 (Tuesday)</h3>
+        <p><strong>Topic:</strong> Roles of JavaScript in Web Development</p>
+        <p><strong>Details:</strong> Discussed the importance of JavaScript in enhancing web interactivity and functionality.</p>
+        
+        <h2>Week 2</h2>
+        <h3>Day 6: 22/05/2024 (Wednesday)</h3>
+        <p><strong>Topic:</strong> Learning JavaScript</p>
+        <p><strong>Details:</strong> Focused on JavaScript functions, events, and DOM manipulation.</p>
+        
+        <h3>Day 7: 23/05/2024 (Thursday)</h3>
+        <p><strong>Topic:</strong> Learning JavaScript</p>
+        <p><strong>Details:</strong> Continued JavaScript learning with loops, arrays, and objects.</p>
+        
+        <h3>Day 8: 24/05/2024 (Friday)</h3>
+        <p><strong>Topic:</strong> Learning JavaScript</p>
+        <p><strong>Details:</strong> Further exploration of advanced JavaScript concepts such as closures and asynchronous programming.</p>
+        
+        <h3>Day 9: 25/05/2024 (Monday)</h3>
+        <p><strong>Topic:</strong> Introduction to ReactJS</p>
+        <p><strong>Details:</strong> Introduced ReactJS, including its core concepts and architecture.</p>
+        
+        <h3>Day 10: 26/05/2024 (Tuesday)</h3>
+        <p><strong>Topic:</strong> Learning ReactJS</p>
+        <p><strong>Details:</strong> Covered the basics of creating React components and using props.</p>
+        
+        <h2>Week 3</h2>
+        <h3>Day 11: 29/05/2024 (Wednesday)</h3>
+        <p><strong>Topic:</strong> ReactJS Components and Hooks</p>
+        <p><strong>Details:</strong> Explored functional components and hooks in ReactJS.</p>
+        
+        <h3>Day 12: 30/05/2024 (Thursday)</h3>
+        <p><strong>Topic:</strong> ReactJS API Calls</p>
+        <p><strong>Details:</strong> Learned how to make API calls and handle data in ReactJS.</p>
+        
+        <h3>Day 13: 31/05/2024 (Friday) to Day 15: 02/06/2024 (Tuesday)</h3>
+        <p><strong>Project:</strong> Task-1: Mini-Website</p>
+        <p><strong>Details:</strong> Worked on creating a mini-website using ReactJS. The project involved setting up the project, creating components, and integrating basic functionalities.</p>
+        
+        <h2>Week 4</h2>
+        <h3>Day 16: 05/06/2024 (Wednesday) to Day 17: 06/06/2024 (Thursday)</h3>
+        <p><strong>Project:</strong> Task-2: StopWatch</p>
+        <p><strong>Details:</strong> Built a stopwatch application using ReactJS, focusing on state management and event handling.</p>
+        
+        <h3>Day 18: 07/06/2024 (Friday) to Day 20: 09/06/2024 (Tuesday)</h3>
+        <p><strong>Project:</strong> Task-3: Tic-Tac-Toe Game</p>
+        <p><strong>Details:</strong> Developed a Tic-Tac-Toe game using ReactJS, implementing game logic and user interaction.</p>
+        
+        <h3>Day 21: 09/06/2024 (Tuesday)</h3>
+        <p><strong>Project:</strong> Task-4: Portfolio Website</p>
+        <p><strong>Details:</strong> Started working on a personal portfolio website to showcase projects and skills.</p>
+        
+        <h2>Week 5</h2>
+        <h3>Day 22: 12/06/2024 (Wednesday) to Day 23: 13/06/2024 (Thursday)</h3>
+        <p><strong>Project:</strong> Task-4: Portfolio Website</p>
+        <p><strong>Details:</strong> Continued development of the portfolio website, focusing on design and content.</p>
+        
+        <h3>Day 24: 14/06/2024 (Friday) to Day 25: 15/06/2024 (Monday)</h3>
+        <p><strong>Project:</strong> Task-5: Weather App</p>
+        <p><strong>Details:</strong> Created a weather application using ReactJS, integrating with a weather API to fetch and display weather data.</p>
+        
+        <h2>Project Details</h2>
+        <h3>Task-1: Mini-Website</h3>
+        <p><strong>Description:</strong> A simple website built with ReactJS to practice component creation and state management.</p>
+        <div class="screenshot">
+            <img src="path_to_image" alt="Mini-Website Screenshot">
+        </div>
+        
+        <h3>Task-2: StopWatch</h3>
+        <p><strong>Description:</strong> A functional stopwatch application demonstrating the use of state and event handling in ReactJS.</p>
+        <div class="screenshot">
+            <img src="path_to_image" alt="StopWatch Screenshot">
+        </div>
+        
+        <h3>Task-3: Tic-Tac-Toe Game</h3>
+        <p><strong>Description:</strong> A classic Tic-Tac-Toe game implemented in ReactJS, focusing on game logic and user interaction.</p>
+        <div class="screenshot">
+            <img src="path_to_image" alt="Tic-Tac-Toe Screenshot">
+        </div>
+        
+        <h3>Task-4: Portfolio Website</h3>
+        <p><strong>Description:</strong> A personal portfolio website to showcase my projects and skills.</p>
+        <div class="screenshot">
+            <img src="path_to_image" alt="Portfolio Website Screenshot">
+        </div>
+        
+        <h3>Task-5: Weather App</h3>
+        <p><strong>Description:</strong> A weather application that fetches and displays weather data using an external API.</p>
+        <div class="screenshot">
+            <img src="path_to_image" alt="Weather App Screenshot">
+        </div>
+        
+        <h2>Conclusion</h2>
+        <p>This internship has been a comprehensive journey through web development, starting from the basics of HTML and CSS, moving to JavaScript, and culminating in advanced ReactJS applications. Each task and project contributed significantly to my learning and practical experience.</p>
+    </div>
+</body>
+</html>
