@@ -1,43 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Internship Journey at Prodigy InfoTech</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        p {
-            margin: 10px 0;
-        }
-        .screenshot {
-            margin: 10px 0;
-        }
-        .screenshot img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
+<div class="container">
         <h1>Internship Journey at Prodigy InfoTech</h1>
         <h2>Overview</h2>
         <p>Welcome to the detailed overview of my internship journey at Prodigy InfoTech. This document outlines the daily tasks, topics covered, and projects completed during the internship.</p>
@@ -153,5 +114,3 @@
         <h2>Conclusion</h2>
         <p>This internship has been a comprehensive journey through web development, starting from the basics of HTML and CSS, moving to JavaScript, and culminating in advanced ReactJS applications. Each task and project contributed significantly to my learning and practical experience.</p>
     </div>
-</body>
-</html>
